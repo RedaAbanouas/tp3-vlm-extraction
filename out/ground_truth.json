@@ -1,0 +1,72 @@
+{
+  "document_type": "bilan",
+  "period": { "start_date": null, "end_date": null },
+  "assets": {
+    "items": [
+      {
+        "label": "Immobilisations en non valeurs (A)",
+        "code": "non_value_assets",
+        "gross": "6836.00",
+        "depreciation_and_provisions": "5468.80",
+        "net_current": "1367.20",
+        "net_previous": "2734.40"
+      },
+      {
+        "label": "Immobilisations corporelles (C)",
+        "code": "tangible_assets",
+        "gross": "450202.21",
+        "depreciation_and_provisions": "20374.95",
+        "net_current": "429827.26",
+        "net_previous": "69635.45"
+      },
+      {
+        "label": "Stocks (F)",
+        "code": "inventory",
+        "gross": "3270814.06",
+        "depreciation_and_provisions": null,
+        "net_current": "3270814.06",
+        "net_previous": "2021559.76"
+      },
+      {
+        "label": "Créances de l'actif circulant (G)",
+        "code": "receivables",
+        "gross": "4407871.67",
+        "depreciation_and_provisions": null,
+        "net_current": "4407871.67",
+        "net_previous": "1858695.19"
+      },
+      {
+        "label": "Ecarts de conversion actif (I)",
+        "code": "currency_translation_current_assets",
+        "gross": "5622.09",
+        "depreciation_and_provisions": null,
+        "net_current": "5622.09",
+        "net_previous": "18164.20"
+      },
+      {
+        "label": "Trésorerie-Actif",
+        "code": "cash",
+        "gross": "43690.33",
+        "depreciation_and_provisions": null,
+        "net_current": "43690.33",
+        "net_previous": "8847.88"
+      }
+    ],
+    "totals": {
+      "fixed_assets": "431194.46",
+      "current_assets": "7684307.82",
+      "cash": "43690.33",
+      "total_assets": "8159192.61"
+    }
+  },
+  "liabilities_and_equity": {
+    "items": [],
+    "totals": {
+      "equity": null,
+      "long_term_funding": null,
+      "current_liabilities": null,
+      "cash_liabilities": null,
+      "total_liabilities_and_equity": null
+    }
+  }
+}

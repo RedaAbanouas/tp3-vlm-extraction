@@ -1,0 +1,101 @@
+{
+  "document_type": "bilan",
+  "period": {
+    "start_date": null,
+    "end_date": null
+  },
+  "assets": {
+    "items": [
+      {
+        "label": "immobilisations en non valeurs",
+        "code": "non_value_assets",
+        "gross": "6 836,00",
+        "depreciation_and_provisions": "5 468,80",
+        "net_current": "1 367,20",
+        "net_previous": "2 734,40"
+      },
+      {
+        "label": "frais preliminaires",
+        "code": "non_value_assets",
+        "gross": "6 836,00",
+        "depreciation_and_provisions": "5 468,80",
+        "net_current": "1 367,20",
+        "net_previous": "2 734,40"
+      },
+      {
+        "label": "charges à répartir sur plusieurs exercices",
+        "code": "non_value_assets",
+        "gross": "",
+        "depreciation_and_provisions": "",
+        "net_current": "",
+        "net_previous": ""
+      },
+      {
+        "label": "volumes de remboursement des obligations",
+        "code": "non_value_assets",
+        "gross": "",
+        "depreciation_and_provisions": "",
+        "net_current": "",
+        "net_previous": ""
+      }
+    ],
+    "totals": {
+      "fixed_assets": null,
+      "current_assets": null,
+      "cash": null,
+      "total_assets": null
+    }
+  },
+  "liabilities_and_equity": {
+    "items": [
+      {
+        "label": "immobilisations incorporelles",
+        "code": "intangible_assets",
+        "gross": "",
+        "depreciation_and_provisions": "",
+        "net_current": "",
+        "net_previous": ""
+      },
+      {
+        "label": "immobilisations en recherche et développement",
+        "code": "intangible_assets",
+        "gross": "",
+        "depreciation_and_provisions": "",
+        "net_current": "",
+        "net_previous": ""
+      },
+      {
+        "label": "prévets, marques, droits et valeurs similaires",
+        "code": "intangible_assets",
+        "gross": "",
+        "depreciation_and_provisions": "",
+        "net_current": "",
+        "net_previous": ""
+      },
+      {
+        "label": "fonds commercial",
+        "code": "intangible_assets",
+        "gross": "",
+        "depreciation_and_provisions": "",
+        "net_current": "",
+        "net_previous": ""
+      },
+      {
+        "label": "autres immobilisations incorporelles",
+        "code": "intangible_assets",
+        "gross": "",
+        "depreciation_and_provisions": "",
+        "net_current": "",
+        "net_previous": ""
+      }
+    ],
+    "totals": {
+      "equity": null,
+      "long_term_funding": null,
+      "current_liabilities": null,
+      "cash_liabilities": null,
+      "total_liabilities_and_equity": null
+    }
+  },
+  "model": "qwen2.5vl:3b"
+}

@@ -1,0 +1,44 @@
+{
+  "models": [
+    {
+      "name": "nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free",
+      "provider": "api",
+      "latency_seconds": 245.1,
+      "parameters_billions": 30,
+      "active_parameters_billions": 3,
+      "accuracy_percent": 90.48
+    },
+    {
+      "name": "nvidia/nemotron-3.5-super-vl:free",
+      "provider": "api",
+      "latency_seconds": 65.0,
+      "parameters_billions": 120,
+      "active_parameters_billions": 12,
+      "accuracy_percent": 100.0
+    },
+    {
+      "name": "qwen2.5vl:32b",
+      "provider": "local",
+      "latency_seconds": 519.356,
+      "parameters_billions": 32,
+      "active_parameters_billions": 32,
+      "accuracy_percent": 85.71
+    },
+    {
+      "name": "qwen2.5vl:3b",
+      "provider": "local",
+      "latency_seconds": 183.658,
+      "parameters_billions": 3,
+      "active_parameters_billions": 3,
+      "accuracy_percent": 47.06
+    },
+    {
+      "name": "qwen2.5vl:7b",
+      "provider": "local",
+      "latency_seconds": 59.321,
+      "parameters_billions": 7,
+      "active_parameters_billions": 7,
+      "accuracy_percent": 75.0
+    }
+  ]
+}

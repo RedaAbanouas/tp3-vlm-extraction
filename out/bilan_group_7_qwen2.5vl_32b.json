@@ -1,0 +1,108 @@
+{
+  "document_type": "bilan",
+  "period": {
+    "start_date": null,
+    "end_date": null
+  },
+  "assets": {
+    "items": [
+      {
+        "label": "IMMOBILISATION EN NON VALEURS (A)",
+        "code": "non_value_assets",
+        "gross": "6 836.00",
+        "depreciation_and_provisions": "5 468.80",
+        "net_current": "1 367.20",
+        "net_previous": "2 734.40"
+      },
+      {
+        "label": "IMMOBILISATIONS INCORPORELLES (B)",
+        "code": "intangible_assets",
+        "gross": null,
+        "depreciation_and_provisions": null,
+        "net_current": null,
+        "net_previous": null
+      },
+      {
+        "label": "IMMOBILISATIONS CORPORELLES (C)",
+        "code": "tangible_assets",
+        "gross": "450 202.21",
+        "depreciation_and_provisions": "20 374.95",
+        "net_current": "429 827.26",
+        "net_previous": "69 635.45"
+      },
+      {
+        "label": "IMMOBILISATIONS FINANCIERES (D)",
+        "code": "financial_assets",
+        "gross": null,
+        "depreciation_and_provisions": null,
+        "net_current": null,
+        "net_previous": null
+      },
+      {
+        "label": "ECARTS DE CONVERSION - ACTIF (E)",
+        "code": "currency_translation_fixed_assets",
+        "gross": "5 622.09",
+        "depreciation_and_provisions": null,
+        "net_current": "5 622.09",
+        "net_previous": "18 164.20"
+      },
+      {
+        "label": "STOCKS (F)",
+        "code": "inventory",
+        "gross": "3 270 814.06",
+        "depreciation_and_provisions": null,
+        "net_current": "3 270 814.06",
+        "net_previous": "2 821 559.76"
+      },
+      {
+        "label": "CREANCES DE L'ACTIF CIRCULANT (G)",
+        "code": "receivables",
+        "gross": "4 407 871.67",
+        "depreciation_and_provisions": null,
+        "net_current": "4 407 871.67",
+        "net_previous": "1 858 695.19"
+      },
+      {
+        "label": "TITRES VALEURS DE PLACEMENT (H)",
+        "code": "marketable_securities",
+        "gross": null,
+        "depreciation_and_provisions": null,
+        "net_current": null,
+        "net_previous": null
+      },
+      {
+        "label": "ECARTS DE CONVERSION - ACTIF (I)",
+        "code": "currency_translation_current_assets",
+        "gross": "5 622.09",
+        "depreciation_and_provisions": null,
+        "net_current": "5 622.09",
+        "net_previous": "18 164.20"
+      },
+      {
+        "label": "TRESORERIE - ACTIF",
+        "code": "cash",
+        "gross": "43 690.33",
+        "depreciation_and_provisions": null,
+        "net_current": "43 690.33",
+        "net_previous": "8 847.88"
+      }
+    ],
+    "totals": {
+      "fixed_assets": "431 194.46",
+      "current_assets": "7 159 192.61",
+      "cash": "43 690.33",
+      "total_assets": "8 159 192.61"
+    }
+  },
+  "liabilities_and_equity": {
+    "items": [],
+    "totals": {
+      "equity": null,
+      "long_term_funding": null,
+      "current_liabilities": null,
+      "cash_liabilities": null,
+      "total_liabilities_and_equity": null
+    }
+  },
+  "model": "qwen2.5vl:32b"
+}
